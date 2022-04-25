@@ -3,7 +3,7 @@
 #### Project execution period : 2022-04-06~2022-04-18
 -----------------------
 ### 1. 개발 환경
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white"/><img src="https://img.shields.io/badge/Windows10-0078D6?style=plastic&logo=Windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white"/><img src="https://img.shields.io/badge/Windows10-0078D6?style=flat&logo=Windows&logoColor=white"/>
 
 -	Platform : Window10
 -	Language : Java(JDK1.11),
