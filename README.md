@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/Windows10-0078D6?style=flat&logo=Windows&logoColor=white"/><img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white"/><img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse&logoColor=white"/>
 
 -	Platform : Window10
--	Language : Java(JDK11),
+-	Language : Java(JDK11.0.2),
 -	IDE : Eclipse
 
 ### 2. 기능 요약
