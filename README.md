@@ -23,6 +23,7 @@
 
 ### 4.	핵심 기술이 들어간 구동화면
 -	관리자 – 팀/선수 정보 추가/수정/삭제
+  
 ![2](https://user-images.githubusercontent.com/97499271/165006185-43ee3246-0473-4dd2-917f-5ba5d6013f79.png)
 
 ### 5. feedback
